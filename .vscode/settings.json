@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "cells.h": "c",
+        "cell_window.h": "c",
+        "pthread.h": "c",
+        "math.h": "c",
+        "mman-linux.h": "c",
+        "mman.h": "c",
+        "sdl.h": "c",
+        "wait.h": "c",
+        "stat.h": "c",
+        "unistd.h": "c"
+    }
+}
